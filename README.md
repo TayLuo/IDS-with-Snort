@@ -11,3 +11,5 @@ like tcpdump, as a packet logger — which is useful for network traffic debuggi
 or it can be used as a full-blown network intrusion prevention system.
 If you want to learn more about Snort, click [here](https://www.snort.org/)
 
+
+- [Install and Configure Snort](https://github.com/TayLuo/Install-and-Configure-Snort/blob/main/README.md)
